@@ -6,7 +6,7 @@ liteDB is a lightweight, in-memory database inspired by Redis. It combines cachi
 
 If you have docker installed on your machine, it is easy to use liteDB:
 
-To spin up a server:
+To spin up a server (first ensure you have the necessary permissions to do so):
 
 ```bash
 
